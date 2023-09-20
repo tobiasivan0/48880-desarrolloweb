@@ -1,0 +1,96 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing:border-box ;
+}
+
+.backgroundIndex{
+background-color: black;
+
+}
+.navBar{
+    background-color: antiquewhite;
+}
+
+.navBar li {
+/* background-color:wheat; */
+display:inline-block ;
+margin:20px;
+}
+.navBar li a{
+    text-decoration: none;
+    padding: 1,870rem;
+    font-size: 1,25rem;
+/* background-color: chartreuse; */
+}
+
+header h1{
+color:beige;
+
+}
+
+
+/* control k+c */
+
+
+/* main section{ */
+    /* background-color: rgb(26, 160, 8);} */
+
+    .sectionUno{
+        background-color: brown;
+    }
+
+    .sectionUno h2{
+text-align: center;
+background-color:yellow ;
+    }
+
+    /*id=
+     
+    #starWars{
+background-color:blue ;
+    }
+     */
+
+
+ 
+
+
+    .fotosCard button{
+    background-color: azure;
+    border:2px solid antiquewhite;
+    padding: 25px 30px;  
+    margin: 30px;
+    }
+
+
+
+    .fotosCard button a{
+        text-decoration: none;
+        color: rgb(0, 0, 0);
+        font-size:  1.25rem;
+        /* padding:25px .875rem .3125 10px; */
+        margin: 1.25rem;
+    
+    
+    }
+
+    .rellenarDatos{
+border: 1.25rem;
+color: cadetblue;
+
+}
+
+.imgNosotros {
+    width: 300px;
+    height: 200px;
+    border: 5px solid black;
+    margin: 10px;
+  }
+
+
+.descargarApp{
+    width: 100px;
+    height: 100px;
+}
+
